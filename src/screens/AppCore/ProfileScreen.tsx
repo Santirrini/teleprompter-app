@@ -1,5 +1,3 @@
-"use client"
-
 import type React from "react"
 import { View, Text, StyleSheet, TouchableOpacity, ScrollView, Alert } from "react-native"
 import Icon from "react-native-vector-icons/MaterialIcons"

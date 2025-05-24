@@ -1,5 +1,3 @@
-"use client"
-
 import type React from "react"
 import { createContext, useContext, useState } from "react"
 import type { Script } from "../types/User"
